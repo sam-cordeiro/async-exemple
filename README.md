@@ -23,22 +23,24 @@
 
 ## 📁 Estrutura do Projeto
 
+```
 projeto-alunoss/
 ├── src/
 │   ├── database/
-│   │   └── database.json          # Arquivo com os dados dos alunos
+│   │   └── database.json        # Arquivo com os dados dos alunos
 │   ├── interface/
-│   │   └── IAluno.ts              # Interface do aluno
+│   │   └── IAluno.ts            # Interface do aluno
 │   ├── managers/
-│   │   └── AlunoManager.ts        # Lógica de manipulação de alunos
+│   │   └── AlunoManager.ts      # Lógica de manipulação de alunos
 │   ├── models/
-│   │   └── AlunoModel.ts          # Estrutura da classe Aluno
+│   │   └── AlunoModel.ts        # Estrutura da classe Aluno
 │   ├── utils/
-│   │   └── prompts.ts             # Prompts do Inquirer
-│   └── index.ts                   # Arquivo principal
+│   │   └── prompts.ts           # Prompts do Inquirer
+│   └── index.ts                 # Arquivo principal
 ├── package.json
 ├── package-lock.json
 └── tsconfig.json
+```
 
 ## 🚀 Como executar
 - Instale as dependências:
