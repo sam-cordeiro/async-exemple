@@ -23,7 +23,6 @@
 
 ## 📁 Estrutura do Projeto
 
-`
 projeto-alunoss/
 ├── src/
 │   ├── database/
@@ -40,7 +39,6 @@ projeto-alunoss/
 ├── package.json
 ├── package-lock.json
 └── tsconfig.json
-`
 
 ## 🚀 Como executar
 - Instale as dependências:
@@ -48,7 +46,7 @@ projeto-alunoss/
 `npm install`
 
 - Execute o projeto:
-- 
+  
 `npx ts-node src/index.ts`
 
 ## 💡 Objetivo educacional
